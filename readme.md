@@ -6,7 +6,7 @@
 ### Deploy do Projeto: [Projeto Star Wars](https://willian-alves-batista-frontend.vercel.app/)
 ![](./public/star-wars.gif)
 
-#### Habilidades que
+#### Habilidades que foram exigidas:
 
   - Logica de programação;
   - Clean Code;
